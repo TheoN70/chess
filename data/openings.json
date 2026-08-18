@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ffafb4ba-3a9c-45d0-9956-b28101f9e2cd",
+    "name": "Italienne",
+    "color": "w",
+    "base": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nc6",
+      "Bc4",
+      "Nf6",
+      "d3",
+      "Bc5",
+      "Nc3"
+    ],
+    "lines": [
+      [
+        "d6",
+        "Bg5",
+        "O-O",
+        "Nd5",
+        "h6",
+        "Nxf6+",
+        "gxf6",
+        "Bxh6"
+      ]
+    ]
+  }
+]
