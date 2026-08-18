@@ -1,7 +1,7 @@
 [
   {
     "id": "ffafb4ba-3a9c-45d0-9956-b28101f9e2cd",
-    "name": "Italienne",
+    "name": "Italienne Classique",
     "color": "w",
     "base": [
       "e4",
@@ -24,6 +24,150 @@
         "Nxf6+",
         "gxf6",
         "Bxh6"
+      ],
+      [
+        "d6",
+        "Bg5",
+        "O-O",
+        "Nd5",
+        "Bg4",
+        "Qd2",
+        "Bxf3",
+        "Bxf6",
+        "gxf6",
+        "Qh6",
+        "Bg4",
+        "Nxf6+",
+        "Kh8",
+        "Qxh7#"
+      ],
+      [
+        "d6",
+        "Bg5",
+        "O-O",
+        "Nd5",
+        "Be6",
+        "Nxf6+",
+        "gxf6",
+        "Bh6",
+        "Re8",
+        "Nh4",
+        "Kh8",
+        "Qh5"
+      ]
+    ]
+  },
+  {
+    "id": "380039ee-8d25-45ea-9cc7-6f614ade469b",
+    "name": "Italienne Giuoco Piano",
+    "color": "w",
+    "base": [
+      "e4",
+      "e5",
+      "Nf3",
+      "Nc6",
+      "Bc4",
+      "Nf6",
+      "d3",
+      "Bc5",
+      "O-O"
+    ],
+    "lines": [
+      [
+        "d5",
+        "exd5",
+        "Nxd5",
+        "Re1",
+        "Bd6",
+        "Bxd5"
+      ],
+      [
+        "d5",
+        "exd5",
+        "Nxd5",
+        "Re1",
+        "f6",
+        "d4",
+        "Nxd4",
+        "Nxd4",
+        "Bxd4",
+        "Qxd4"
+      ],
+      [
+        "d5",
+        "exd5",
+        "Nxd5",
+        "Re1",
+        "f6",
+        "d4",
+        "Bb6",
+        "dxe5",
+        "Nde7",
+        "exf6",
+        "Qxd1",
+        "f7+",
+        "Kf8",
+        "Rxd1"
+      ],
+      [
+        "O-O",
+        "Re1",
+        "d5",
+        "exd5",
+        "Nxd5",
+        "Rxe5"
+      ],
+      [
+        "O-O",
+        "Re1",
+        "d6",
+        "c3",
+        "Bg4",
+        "h3",
+        "Bh5",
+        "Nbd2",
+        "Re8",
+        "Nf1",
+        "Qd7",
+        "Ng3",
+        "Bxf3",
+        "Qxf3",
+        "Rad8",
+        "Nf5",
+        "Na5",
+        "Qg3",
+        "g6",
+        "Nh6+",
+        "Kg7",
+        "Bxf7"
+      ],
+      [
+        "O-O",
+        "Re1",
+        "d6",
+        "c3",
+        "Bg4",
+        "h3",
+        "Bh5",
+        "Nbd2",
+        "Re8",
+        "Nf1",
+        "Qd7",
+        "Ng3",
+        "Bg6",
+        "Nh4"
+      ],
+      [
+        "O-O",
+        "Re1",
+        "d6",
+        "c3",
+        "Na5",
+        "Bb5",
+        "a6",
+        "Ba4",
+        "b5",
+        "Bc2"
       ]
     ]
   }
